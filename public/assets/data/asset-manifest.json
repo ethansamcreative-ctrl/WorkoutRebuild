@@ -1,0 +1,410 @@
+{
+  "pack": "Project Rebuild Comprehensive Asset Pack",
+  "version": "1.0.0",
+  "rootUsage": "Place this folder at public/assets/ in the React/Vite project.",
+  "categories": {
+    "cardio": 4,
+    "exercises": 20,
+    "recovery": 5,
+    "stretches": 15,
+    "ui": 27,
+    "warmups": 8
+  },
+  "files": [
+    {
+      "path": "cardio/elliptical.svg",
+      "type": "svg",
+      "bytes": 1693
+    },
+    {
+      "path": "cardio/flat-treadmill.svg",
+      "type": "svg",
+      "bytes": 1691
+    },
+    {
+      "path": "cardio/interval-bike.svg",
+      "type": "svg",
+      "bytes": 1701
+    },
+    {
+      "path": "cardio/recovery-walk.svg",
+      "type": "svg",
+      "bytes": 1713
+    },
+    {
+      "path": "exercises/calves/calf-raise.jpg",
+      "type": "jpg",
+      "bytes": 18124
+    },
+    {
+      "path": "exercises/calves/slow-calf-raise.png",
+      "type": "png",
+      "bytes": 213093
+    },
+    {
+      "path": "exercises/calves/tibialis-raise.jpg",
+      "type": "jpg",
+      "bytes": 19195
+    },
+    {
+      "path": "exercises/core/dead-bug.png",
+      "type": "png",
+      "bytes": 246901
+    },
+    {
+      "path": "exercises/core/glute-bridge.png",
+      "type": "png",
+      "bytes": 239739
+    },
+    {
+      "path": "exercises/core/pallof-press.jpg",
+      "type": "jpg",
+      "bytes": 23457
+    },
+    {
+      "path": "exercises/core/side-plank-knees.svg",
+      "type": "svg",
+      "bytes": 1722
+    },
+    {
+      "path": "exercises/legs/db-rdl.jpg",
+      "type": "jpg",
+      "bytes": 18922
+    },
+    {
+      "path": "exercises/legs/goblet-squat.jpg",
+      "type": "jpg",
+      "bytes": 18881
+    },
+    {
+      "path": "exercises/legs/leg-press.jpg",
+      "type": "jpg",
+      "bytes": 21998
+    },
+    {
+      "path": "exercises/legs/seated-leg-curl.svg",
+      "type": "svg",
+      "bytes": 1706
+    },
+    {
+      "path": "exercises/legs/smith-box-squat.svg",
+      "type": "svg",
+      "bytes": 1706
+    },
+    {
+      "path": "exercises/pull/hammer-curl.jpg",
+      "type": "jpg",
+      "bytes": 23718
+    },
+    {
+      "path": "exercises/pull/lat-pulldown.jpg",
+      "type": "jpg",
+      "bytes": 21322
+    },
+    {
+      "path": "exercises/pull/seated-cable-row.jpg",
+      "type": "jpg",
+      "bytes": 22355
+    },
+    {
+      "path": "exercises/pull/static-db-hold.jpg",
+      "type": "jpg",
+      "bytes": 18107
+    },
+    {
+      "path": "exercises/pull/straight-arm-pulldown.svg",
+      "type": "svg",
+      "bytes": 1720
+    },
+    {
+      "path": "exercises/push/incline-pushup.svg",
+      "type": "svg",
+      "bytes": 1694
+    },
+    {
+      "path": "exercises/push/machine-chest-press.jpg",
+      "type": "jpg",
+      "bytes": 22265
+    },
+    {
+      "path": "exercises/push/seated-db-shoulder-press.jpg",
+      "type": "jpg",
+      "bytes": 25031
+    },
+    {
+      "path": "recovery/breathing-reset.svg",
+      "type": "svg",
+      "bytes": 1693
+    },
+    {
+      "path": "recovery/hydration.svg",
+      "type": "svg",
+      "bytes": 1703
+    },
+    {
+      "path": "recovery/legs-up-chair.svg",
+      "type": "svg",
+      "bytes": 1679
+    },
+    {
+      "path": "recovery/pain-check.svg",
+      "type": "svg",
+      "bytes": 1705
+    },
+    {
+      "path": "recovery/sleep-routine.svg",
+      "type": "svg",
+      "bytes": 1693
+    },
+    {
+      "path": "stretches/calves/calf-stretch.png",
+      "type": "png",
+      "bytes": 261307
+    },
+    {
+      "path": "stretches/calves/soleus-stretch.svg",
+      "type": "svg",
+      "bytes": 1724
+    },
+    {
+      "path": "stretches/calves/towel-calf-stretch.png",
+      "type": "png",
+      "bytes": 255731
+    },
+    {
+      "path": "stretches/feet/ball-roll.png",
+      "type": "png",
+      "bytes": 181286
+    },
+    {
+      "path": "stretches/feet/single-leg-balance.png",
+      "type": "png",
+      "bytes": 197273
+    },
+    {
+      "path": "stretches/feet/toe-curls.png",
+      "type": "png",
+      "bytes": 202344
+    },
+    {
+      "path": "stretches/feet/toe-pull.png",
+      "type": "png",
+      "bytes": 256640
+    },
+    {
+      "path": "stretches/feet/toe-spread.svg",
+      "type": "svg",
+      "bytes": 1692
+    },
+    {
+      "path": "stretches/hamstrings/hamstring-stretch.png",
+      "type": "png",
+      "bytes": 303446
+    },
+    {
+      "path": "stretches/hips/90-90.png",
+      "type": "png",
+      "bytes": 290839
+    },
+    {
+      "path": "stretches/hips/figure-four-stretch.svg",
+      "type": "svg",
+      "bytes": 1712
+    },
+    {
+      "path": "stretches/hips/hip-flexor-stretch.svg",
+      "type": "svg",
+      "bytes": 1740
+    },
+    {
+      "path": "stretches/spine/cat-cow.png",
+      "type": "png",
+      "bytes": 297365
+    },
+    {
+      "path": "stretches/spine/child-pose.png",
+      "type": "png",
+      "bytes": 263656
+    },
+    {
+      "path": "stretches/spine/open-book.svg",
+      "type": "svg",
+      "bytes": 1694
+    },
+    {
+      "path": "ui/backgrounds/cream-green.svg",
+      "type": "svg",
+      "bytes": 475
+    },
+    {
+      "path": "ui/backgrounds/ink-clay.svg",
+      "type": "svg",
+      "bytes": 475
+    },
+    {
+      "path": "ui/backgrounds/stone-bronze.svg",
+      "type": "svg",
+      "bytes": 475
+    },
+    {
+      "path": "ui/badges/athletic-prep.svg",
+      "type": "svg",
+      "bytes": 522
+    },
+    {
+      "path": "ui/badges/capacity.svg",
+      "type": "svg",
+      "bytes": 516
+    },
+    {
+      "path": "ui/badges/first-workout.svg",
+      "type": "svg",
+      "bytes": 517
+    },
+    {
+      "path": "ui/badges/foundation.svg",
+      "type": "svg",
+      "bytes": 518
+    },
+    {
+      "path": "ui/badges/streak-30.svg",
+      "type": "svg",
+      "bytes": 518
+    },
+    {
+      "path": "ui/badges/streak-7.svg",
+      "type": "svg",
+      "bytes": 520
+    },
+    {
+      "path": "ui/icons/calendar.svg",
+      "type": "svg",
+      "bytes": 337
+    },
+    {
+      "path": "ui/icons/check.svg",
+      "type": "svg",
+      "bytes": 337
+    },
+    {
+      "path": "ui/icons/icon-192.png",
+      "type": "png",
+      "bytes": 3391
+    },
+    {
+      "path": "ui/icons/icon-512.png",
+      "type": "png",
+      "bytes": 11204
+    },
+    {
+      "path": "ui/icons/info.svg",
+      "type": "svg",
+      "bytes": 337
+    },
+    {
+      "path": "ui/icons/move.svg",
+      "type": "svg",
+      "bytes": 337
+    },
+    {
+      "path": "ui/icons/pain.svg",
+      "type": "svg",
+      "bytes": 337
+    },
+    {
+      "path": "ui/icons/profile.svg",
+      "type": "svg",
+      "bytes": 337
+    },
+    {
+      "path": "ui/icons/progress.svg",
+      "type": "svg",
+      "bytes": 337
+    },
+    {
+      "path": "ui/icons/protein.svg",
+      "type": "svg",
+      "bytes": 337
+    },
+    {
+      "path": "ui/icons/steps.svg",
+      "type": "svg",
+      "bytes": 337
+    },
+    {
+      "path": "ui/icons/streak.svg",
+      "type": "svg",
+      "bytes": 337
+    },
+    {
+      "path": "ui/icons/timer.svg",
+      "type": "svg",
+      "bytes": 337
+    },
+    {
+      "path": "ui/icons/today.svg",
+      "type": "svg",
+      "bytes": 337
+    },
+    {
+      "path": "ui/icons/train.svg",
+      "type": "svg",
+      "bytes": 337
+    },
+    {
+      "path": "ui/icons/water.svg",
+      "type": "svg",
+      "bytes": 337
+    },
+    {
+      "path": "ui/icons/weight.svg",
+      "type": "svg",
+      "bytes": 337
+    },
+    {
+      "path": "ui/patterns/geometric-earth.svg",
+      "type": "svg",
+      "bytes": 366
+    },
+    {
+      "path": "warmups/ankle-rocks.svg",
+      "type": "svg",
+      "bytes": 1678
+    },
+    {
+      "path": "warmups/city-walk.svg",
+      "type": "svg",
+      "bytes": 1718
+    },
+    {
+      "path": "warmups/hip-hinge-drill.svg",
+      "type": "svg",
+      "bytes": 1678
+    },
+    {
+      "path": "warmups/march-in-place.svg",
+      "type": "svg",
+      "bytes": 1684
+    },
+    {
+      "path": "warmups/recumbent-bike.svg",
+      "type": "svg",
+      "bytes": 1718
+    },
+    {
+      "path": "warmups/shoulder-circles.svg",
+      "type": "svg",
+      "bytes": 1690
+    },
+    {
+      "path": "warmups/sit-to-stand.svg",
+      "type": "svg",
+      "bytes": 1684
+    },
+    {
+      "path": "warmups/wall-slides.svg",
+      "type": "svg",
+      "bytes": 1682
+    }
+  ]
+}

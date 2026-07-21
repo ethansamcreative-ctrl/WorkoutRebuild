@@ -1,0 +1,10 @@
+{
+  "name": "Project Rebuild",
+  "short_name": "Rebuild",
+  "description": "A personal strength, mobility, and conditioning companion.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f3efe6",
+  "theme_color": "#182820",
+  "icons": []
+}

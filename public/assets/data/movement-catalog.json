@@ -1,0 +1,418 @@
+[
+  {
+    "id": "elliptical",
+    "name": "Elliptical",
+    "category": "cardio",
+    "subcategory": null,
+    "asset": "./assets/cardio/elliptical.svg",
+    "alt": "Elliptical instructional visual"
+  },
+  {
+    "id": "flat_treadmill",
+    "name": "Flat Treadmill",
+    "category": "cardio",
+    "subcategory": null,
+    "asset": "./assets/cardio/flat-treadmill.svg",
+    "alt": "Flat Treadmill instructional visual"
+  },
+  {
+    "id": "interval_bike",
+    "name": "Interval Bike",
+    "category": "cardio",
+    "subcategory": null,
+    "asset": "./assets/cardio/interval-bike.svg",
+    "alt": "Interval Bike instructional visual"
+  },
+  {
+    "id": "recovery_walk",
+    "name": "Recovery Walk",
+    "category": "cardio",
+    "subcategory": null,
+    "asset": "./assets/cardio/recovery-walk.svg",
+    "alt": "Recovery Walk instructional visual"
+  },
+  {
+    "id": "calf_raise",
+    "name": "Calf Raise",
+    "category": "exercises",
+    "subcategory": "calves",
+    "asset": "./assets/exercises/calves/calf-raise.jpg",
+    "alt": "Calf Raise instructional visual"
+  },
+  {
+    "id": "slow_calf_raise",
+    "name": "Slow Calf Raise",
+    "category": "exercises",
+    "subcategory": "calves",
+    "asset": "./assets/exercises/calves/slow-calf-raise.png",
+    "alt": "Slow Calf Raise instructional visual"
+  },
+  {
+    "id": "tibialis_raise",
+    "name": "Tibialis Raise",
+    "category": "exercises",
+    "subcategory": "calves",
+    "asset": "./assets/exercises/calves/tibialis-raise.jpg",
+    "alt": "Tibialis Raise instructional visual"
+  },
+  {
+    "id": "dead_bug",
+    "name": "Dead Bug",
+    "category": "exercises",
+    "subcategory": "core",
+    "asset": "./assets/exercises/core/dead-bug.png",
+    "alt": "Dead Bug instructional visual"
+  },
+  {
+    "id": "glute_bridge",
+    "name": "Glute Bridge",
+    "category": "exercises",
+    "subcategory": "core",
+    "asset": "./assets/exercises/core/glute-bridge.png",
+    "alt": "Glute Bridge instructional visual"
+  },
+  {
+    "id": "pallof_press",
+    "name": "Pallof Press",
+    "category": "exercises",
+    "subcategory": "core",
+    "asset": "./assets/exercises/core/pallof-press.jpg",
+    "alt": "Pallof Press instructional visual"
+  },
+  {
+    "id": "side_plank_knees",
+    "name": "Side Plank Knees",
+    "category": "exercises",
+    "subcategory": "core",
+    "asset": "./assets/exercises/core/side-plank-knees.svg",
+    "alt": "Side Plank Knees instructional visual"
+  },
+  {
+    "id": "db_rdl",
+    "name": "Db Rdl",
+    "category": "exercises",
+    "subcategory": "legs",
+    "asset": "./assets/exercises/legs/db-rdl.jpg",
+    "alt": "Db Rdl instructional visual"
+  },
+  {
+    "id": "goblet_squat",
+    "name": "Goblet Squat",
+    "category": "exercises",
+    "subcategory": "legs",
+    "asset": "./assets/exercises/legs/goblet-squat.jpg",
+    "alt": "Goblet Squat instructional visual"
+  },
+  {
+    "id": "leg_press",
+    "name": "Leg Press",
+    "category": "exercises",
+    "subcategory": "legs",
+    "asset": "./assets/exercises/legs/leg-press.jpg",
+    "alt": "Leg Press instructional visual"
+  },
+  {
+    "id": "seated_leg_curl",
+    "name": "Seated Leg Curl",
+    "category": "exercises",
+    "subcategory": "legs",
+    "asset": "./assets/exercises/legs/seated-leg-curl.svg",
+    "alt": "Seated Leg Curl instructional visual"
+  },
+  {
+    "id": "smith_box_squat",
+    "name": "Smith Box Squat",
+    "category": "exercises",
+    "subcategory": "legs",
+    "asset": "./assets/exercises/legs/smith-box-squat.svg",
+    "alt": "Smith Box Squat instructional visual"
+  },
+  {
+    "id": "hammer_curl",
+    "name": "Hammer Curl",
+    "category": "exercises",
+    "subcategory": "pull",
+    "asset": "./assets/exercises/pull/hammer-curl.jpg",
+    "alt": "Hammer Curl instructional visual"
+  },
+  {
+    "id": "lat_pulldown",
+    "name": "Lat Pulldown",
+    "category": "exercises",
+    "subcategory": "pull",
+    "asset": "./assets/exercises/pull/lat-pulldown.jpg",
+    "alt": "Lat Pulldown instructional visual"
+  },
+  {
+    "id": "seated_cable_row",
+    "name": "Seated Cable Row",
+    "category": "exercises",
+    "subcategory": "pull",
+    "asset": "./assets/exercises/pull/seated-cable-row.jpg",
+    "alt": "Seated Cable Row instructional visual"
+  },
+  {
+    "id": "static_db_hold",
+    "name": "Static Db Hold",
+    "category": "exercises",
+    "subcategory": "pull",
+    "asset": "./assets/exercises/pull/static-db-hold.jpg",
+    "alt": "Static Db Hold instructional visual"
+  },
+  {
+    "id": "straight_arm_pulldown",
+    "name": "Straight Arm Pulldown",
+    "category": "exercises",
+    "subcategory": "pull",
+    "asset": "./assets/exercises/pull/straight-arm-pulldown.svg",
+    "alt": "Straight Arm Pulldown instructional visual"
+  },
+  {
+    "id": "incline_pushup",
+    "name": "Incline Pushup",
+    "category": "exercises",
+    "subcategory": "push",
+    "asset": "./assets/exercises/push/incline-pushup.svg",
+    "alt": "Incline Pushup instructional visual"
+  },
+  {
+    "id": "machine_chest_press",
+    "name": "Machine Chest Press",
+    "category": "exercises",
+    "subcategory": "push",
+    "asset": "./assets/exercises/push/machine-chest-press.jpg",
+    "alt": "Machine Chest Press instructional visual"
+  },
+  {
+    "id": "seated_db_shoulder_press",
+    "name": "Seated Db Shoulder Press",
+    "category": "exercises",
+    "subcategory": "push",
+    "asset": "./assets/exercises/push/seated-db-shoulder-press.jpg",
+    "alt": "Seated Db Shoulder Press instructional visual"
+  },
+  {
+    "id": "breathing_reset",
+    "name": "Breathing Reset",
+    "category": "recovery",
+    "subcategory": null,
+    "asset": "./assets/recovery/breathing-reset.svg",
+    "alt": "Breathing Reset instructional visual"
+  },
+  {
+    "id": "hydration",
+    "name": "Hydration",
+    "category": "recovery",
+    "subcategory": null,
+    "asset": "./assets/recovery/hydration.svg",
+    "alt": "Hydration instructional visual"
+  },
+  {
+    "id": "legs_up_chair",
+    "name": "Legs Up Chair",
+    "category": "recovery",
+    "subcategory": null,
+    "asset": "./assets/recovery/legs-up-chair.svg",
+    "alt": "Legs Up Chair instructional visual"
+  },
+  {
+    "id": "pain_check",
+    "name": "Pain Check",
+    "category": "recovery",
+    "subcategory": null,
+    "asset": "./assets/recovery/pain-check.svg",
+    "alt": "Pain Check instructional visual"
+  },
+  {
+    "id": "sleep_routine",
+    "name": "Sleep Routine",
+    "category": "recovery",
+    "subcategory": null,
+    "asset": "./assets/recovery/sleep-routine.svg",
+    "alt": "Sleep Routine instructional visual"
+  },
+  {
+    "id": "calf_stretch",
+    "name": "Calf Stretch",
+    "category": "stretches",
+    "subcategory": "calves",
+    "asset": "./assets/stretches/calves/calf-stretch.png",
+    "alt": "Calf Stretch instructional visual"
+  },
+  {
+    "id": "soleus_stretch",
+    "name": "Soleus Stretch",
+    "category": "stretches",
+    "subcategory": "calves",
+    "asset": "./assets/stretches/calves/soleus-stretch.svg",
+    "alt": "Soleus Stretch instructional visual"
+  },
+  {
+    "id": "towel_calf_stretch",
+    "name": "Towel Calf Stretch",
+    "category": "stretches",
+    "subcategory": "calves",
+    "asset": "./assets/stretches/calves/towel-calf-stretch.png",
+    "alt": "Towel Calf Stretch instructional visual"
+  },
+  {
+    "id": "ball_roll",
+    "name": "Ball Roll",
+    "category": "stretches",
+    "subcategory": "feet",
+    "asset": "./assets/stretches/feet/ball-roll.png",
+    "alt": "Ball Roll instructional visual"
+  },
+  {
+    "id": "single_leg_balance",
+    "name": "Single Leg Balance",
+    "category": "stretches",
+    "subcategory": "feet",
+    "asset": "./assets/stretches/feet/single-leg-balance.png",
+    "alt": "Single Leg Balance instructional visual"
+  },
+  {
+    "id": "toe_curls",
+    "name": "Toe Curls",
+    "category": "stretches",
+    "subcategory": "feet",
+    "asset": "./assets/stretches/feet/toe-curls.png",
+    "alt": "Toe Curls instructional visual"
+  },
+  {
+    "id": "toe_pull",
+    "name": "Toe Pull",
+    "category": "stretches",
+    "subcategory": "feet",
+    "asset": "./assets/stretches/feet/toe-pull.png",
+    "alt": "Toe Pull instructional visual"
+  },
+  {
+    "id": "toe_spread",
+    "name": "Toe Spread",
+    "category": "stretches",
+    "subcategory": "feet",
+    "asset": "./assets/stretches/feet/toe-spread.svg",
+    "alt": "Toe Spread instructional visual"
+  },
+  {
+    "id": "hamstring_stretch",
+    "name": "Hamstring Stretch",
+    "category": "stretches",
+    "subcategory": "hamstrings",
+    "asset": "./assets/stretches/hamstrings/hamstring-stretch.png",
+    "alt": "Hamstring Stretch instructional visual"
+  },
+  {
+    "id": "90_90",
+    "name": "90 90",
+    "category": "stretches",
+    "subcategory": "hips",
+    "asset": "./assets/stretches/hips/90-90.png",
+    "alt": "90 90 instructional visual"
+  },
+  {
+    "id": "figure_four_stretch",
+    "name": "Figure Four Stretch",
+    "category": "stretches",
+    "subcategory": "hips",
+    "asset": "./assets/stretches/hips/figure-four-stretch.svg",
+    "alt": "Figure Four Stretch instructional visual"
+  },
+  {
+    "id": "hip_flexor_stretch",
+    "name": "Hip Flexor Stretch",
+    "category": "stretches",
+    "subcategory": "hips",
+    "asset": "./assets/stretches/hips/hip-flexor-stretch.svg",
+    "alt": "Hip Flexor Stretch instructional visual"
+  },
+  {
+    "id": "cat_cow",
+    "name": "Cat Cow",
+    "category": "stretches",
+    "subcategory": "spine",
+    "asset": "./assets/stretches/spine/cat-cow.png",
+    "alt": "Cat Cow instructional visual"
+  },
+  {
+    "id": "child_pose",
+    "name": "Child Pose",
+    "category": "stretches",
+    "subcategory": "spine",
+    "asset": "./assets/stretches/spine/child-pose.png",
+    "alt": "Child Pose instructional visual"
+  },
+  {
+    "id": "open_book",
+    "name": "Open Book",
+    "category": "stretches",
+    "subcategory": "spine",
+    "asset": "./assets/stretches/spine/open-book.svg",
+    "alt": "Open Book instructional visual"
+  },
+  {
+    "id": "ankle_rocks",
+    "name": "Ankle Rocks",
+    "category": "warmups",
+    "subcategory": null,
+    "asset": "./assets/warmups/ankle-rocks.svg",
+    "alt": "Ankle Rocks instructional visual"
+  },
+  {
+    "id": "city_walk",
+    "name": "City Walk",
+    "category": "warmups",
+    "subcategory": null,
+    "asset": "./assets/warmups/city-walk.svg",
+    "alt": "City Walk instructional visual"
+  },
+  {
+    "id": "hip_hinge_drill",
+    "name": "Hip Hinge Drill",
+    "category": "warmups",
+    "subcategory": null,
+    "asset": "./assets/warmups/hip-hinge-drill.svg",
+    "alt": "Hip Hinge Drill instructional visual"
+  },
+  {
+    "id": "march_in_place",
+    "name": "March In Place",
+    "category": "warmups",
+    "subcategory": null,
+    "asset": "./assets/warmups/march-in-place.svg",
+    "alt": "March In Place instructional visual"
+  },
+  {
+    "id": "recumbent_bike",
+    "name": "Recumbent Bike",
+    "category": "warmups",
+    "subcategory": null,
+    "asset": "./assets/warmups/recumbent-bike.svg",
+    "alt": "Recumbent Bike instructional visual"
+  },
+  {
+    "id": "shoulder_circles",
+    "name": "Shoulder Circles",
+    "category": "warmups",
+    "subcategory": null,
+    "asset": "./assets/warmups/shoulder-circles.svg",
+    "alt": "Shoulder Circles instructional visual"
+  },
+  {
+    "id": "sit_to_stand",
+    "name": "Sit To Stand",
+    "category": "warmups",
+    "subcategory": null,
+    "asset": "./assets/warmups/sit-to-stand.svg",
+    "alt": "Sit To Stand instructional visual"
+  },
+  {
+    "id": "wall_slides",
+    "name": "Wall Slides",
+    "category": "warmups",
+    "subcategory": null,
+    "asset": "./assets/warmups/wall-slides.svg",
+    "alt": "Wall Slides instructional visual"
+  }
+]
